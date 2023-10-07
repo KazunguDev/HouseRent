@@ -1,5 +1,4 @@
-##  It's a web-based platform where anyone can rent house within a few seconds where Landlords can post about their empty houses.
-
+It's a web-based platform where anyone can rent house within a few seconds where Landlords can post about their empty houses.
 **Technology: Html, CSS, Bootstrap, JavaScript, PHP, Laravel Framework
 **Database: MySQL
 
@@ -71,14 +70,22 @@
 <li>Has ability to reset password</li>
 </ul>
 
-
-
-
 <ul>
 <h2>Guest User</h2>
+
 <li>User can see all available houses</li>
 <li>User can search houses by location, number of rooms, bathrooms, rent amount, price range</li>
 <li>User can view houses by sorting prices as high to low Or low to high price.</li>
 <li>User can view area wise houses.</li>
 <li>User can share house details through social media.</li>
 </ul>
+
+ ## Screenshots
+
+![Screenshot 2023-10-07 073543](https://github.com/KazunguDev/HouseRent/assets/88532016/d19a6f35-8842-4dc5-9c81-ffdbc16770ac)
+
+![Screenshot 2023-10-07 073651](https://github.com/KazunguDev/HouseRent/assets/88532016/dfbf3c11-f1c6-44d8-a150-7d078e9a746c)
+
+![Screenshot 2023-10-07 073651](https://github.com/KazunguDev/HouseRent/assets/88532016/532daa12-88db-4cd7-95a6-0db20fa5a8d9)
+
+![Screenshot 2023-10-07 074217](https://github.com/KazunguDev/HouseRent/assets/88532016/762e5c97-f3db-43ef-b853-1eabb6edffd3)
